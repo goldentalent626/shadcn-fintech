@@ -1,3 +1,10 @@
+> [!WARNING]
+> **Security notice: malicious third-party copy**
+>
+> The official repository is [abderrahimghazali/shadcn-fintech](https://github.com/abderrahimghazali/shadcn-fintech). A third-party re-upload named `Weebapp003/shadcn-fintech-template` adds dependencies associated with malware, including `oscar-redis` and `oracle-redis`. **Do not install or run that copy.** These packages are not dependencies of the official project.
+>
+> See [issue #3](https://github.com/abderrahimghazali/shadcn-fintech/issues/3), the [oscar-redis malware advisory](https://github.com/advisories/GHSA-c6m6-wr2f-6f63), and the [oracle-redis malware advisory](https://osv.dev/vulnerability/MAL-2026-16390) for details. If you installed or ran the malicious copy, treat the machine as potentially compromised and rotate exposed credentials from a clean device. Removing the package alone may not remove the malware.
+
 <div align="center">
 
 # Shadcn Fintech
