@@ -1,8 +1,3 @@
-> [!WARNING]
-> **Security notice: malicious third-party copy**
->
-> The official repository is [abderrahimghazali/shadcn-fintech](https://github.com/goldentalent626/shadcn-fintech). A third-party re-upload named `Weebapp003/shadcn-fintech-template` adds dependencies associated with malware, including `oscar-redis` and `oracle-redis`. **Do not install or run that copy.** These packages are not dependencies of the official project.
->
 ## Features
 
 - **11 fully built pages** — Dashboard, Accounts, Transactions, Transfers, Cards, Crypto, Analytics, Investments, Budgets, Settings, Notifications
