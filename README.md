@@ -1,29 +1,8 @@
 > [!WARNING]
 > **Security notice: malicious third-party copy**
 >
-> The official repository is [abderrahimghazali/shadcn-fintech](https://github.com/abderrahimghazali/shadcn-fintech). A third-party re-upload named `Weebapp003/shadcn-fintech-template` adds dependencies associated with malware, including `oscar-redis` and `oracle-redis`. **Do not install or run that copy.** These packages are not dependencies of the official project.
+> The official repository is [abderrahimghazali/shadcn-fintech](https://github.com/goldentalent626/shadcn-fintech). A third-party re-upload named `Weebapp003/shadcn-fintech-template` adds dependencies associated with malware, including `oscar-redis` and `oracle-redis`. **Do not install or run that copy.** These packages are not dependencies of the official project.
 >
-> See [issue #3](https://github.com/abderrahimghazali/shadcn-fintech/issues/3), the [oscar-redis malware advisory](https://github.com/advisories/GHSA-c6m6-wr2f-6f63), and the [oracle-redis malware advisory](https://osv.dev/vulnerability/MAL-2026-16390) for details. If you installed or ran the malicious copy, treat the machine as potentially compromised and rotate exposed credentials from a clean device. Removing the package alone may not remove the malware.
-
-<div align="center">
-
-# Shadcn Fintech
-
-A premium, open-source fintech dashboard built with Next.js, shadcn/ui, and Tailwind CSS.
-
-[![CI](https://github.com/abderrahimghazali/shadcn-fintech/actions/workflows/ci.yml/badge.svg)](https://github.com/abderrahimghazali/shadcn-fintech/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE)
-[![Next.js](https://img.shields.io/badge/Next.js-16-black)](https://nextjs.org)
-[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-latest-black)](https://ui.shadcn.com)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-black)](https://tailwindcss.com)
-[![TypeScript](https://img.shields.io/badge/TypeScript-strict-black)](https://typescriptlang.org)
-
-[Live Demo](https://shadcn-fintech.vercel.app) · [Report Bug](https://github.com/abderrahimghazali/shadcn-fintech/issues) · [Request Feature](https://github.com/abderrahimghazali/shadcn-fintech/issues)
-
-![Shadcn Fintech Dashboard](public/screenshots/shadcn-fintech.png)
-
-</div>
-
 ## Features
 
 - **11 fully built pages** — Dashboard, Accounts, Transactions, Transfers, Cards, Crypto, Analytics, Investments, Budgets, Settings, Notifications
@@ -108,13 +87,3 @@ Every star, share, and contribution also goes a long way. Thank you for your sup
 ## License
 
 Licensed under the [MIT License](LICENSE).
-
-## Author
-
-Created with ❤️ by **[Abderrahim Ghazali](https://github.com/abderrahimghazali)**
-
-Need help getting started or have a question? Feel free to reach out — I'm happy to help.
-
-<a href="https://cal.com/abderrahimghazali/15min?overlayCalendar=true">
-  <img src="https://img.shields.io/badge/Book%20a%20call-Cal.com-292929?logo=cal.com&logoColor=white" alt="Book a call" />
-</a>
